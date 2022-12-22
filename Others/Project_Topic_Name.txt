@@ -1,0 +1,48 @@
+E-Ration Queue Management
+
+Roles-
+Admin
+Shopkeeper
+User
+(Supplier)
+
+Scope-
+Reducing the Long Queues 
+Information available to user
+Transaction transparency
+Avoiding Bogus and ineligible user.
+
+
+
+
+Event Management
+
+
+Roles-
+Manager
+Caterer
+Decoration
+Venue Manager
+Sound System
+
+Scope-
+Budget Planning
+Reducing clutter and centralising the system
+Can easily track the flow of transaction
+
+
+Meeting Planner
+
+Roles-
+Admin
+Teacher
+Students
+
+Scope-
+Scheduling meeting
+Webinars
+Reminder
+All the timetable in one place
+Teacher can add their alloted time, agenda of meeting these will show/avoid the conflict of any other faculty time with theirs
+Student can have reminder and had the knowledge of assignment and agenda of meeting before hand. 
+

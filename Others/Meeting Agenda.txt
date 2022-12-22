@@ -1,0 +1,7 @@
+Next Meeting Agenda For Classroom Scheduler:
+
+1.Features 
+	Eg, Portfolio,Reminder,Upload Assignments,Progress Bar
+2.Use case Diagram
+3.Summary
+4.Document Should be in GitHub
